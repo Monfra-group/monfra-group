@@ -1,71 +1,58 @@
-<!-- Your title -->
-## Hello, I'm Monfra!
+### Hi There 👋
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+### About Me
 
-[![Portfolio](https://https://img.shields.io/badge/-Portfolio-000?style=flat&logo=portfolio&logoColor=white)]( https://monfra-admin.vercel.app)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]( https://github.com/monfra-group)
-[![Gmail](https://https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)]( https://monfra875@gmail.com)
+<div>
+  <p>
+    I'm a senior Blockchain Developer and PM. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
+  </p>
+  
 
-&nbsp;
+  <ul>
+  <li>💡 <strong>Blockchain Master</strong>: Deep expertise in smart contracts, Dapp, DeFi, NFTs, web3 Game and scalable blockchain solutions.</li>
+  <li>🧠 <strong>AI Innovator</strong>: Leveraging AI and machine learning to build intelligent, adaptive systems—from smart analytics to autonomous agents in Web3 and beyond.</li>
+  <li>🛠 <strong>Full-Stack Excellence</strong>: From backend architecture to frontend UX, I ensure seamless, high-impact results.  </li>
+  <li>🔥 <strong>Team Leadership</strong>: I don’t just manage teams; I inspire them to create high-performance, game-changing solutions</li>
+</ul>
+If you're working on something that demands expertise, execution, and vision-let’s talk.
+</div>
 
-<!-- Talking about you -->
-**About Me:**
+### Languages & Tools
 
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
+> 💡 **Tip:** *You can see the skill name by hovering your mouse over the image.*
 
----
-
-**Languages and Tools:**
-
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
+  <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" />
+  <img src="https://skillicons.dev/icons?i=haskell" title="Haskell" />
+  <img src="https://skillicons.dev/icons?i=threejs" title="Three.js" />
+  <img src="https://skillicons.dev/icons?i=go" title="Go" />
+  <img src="https://skillicons.dev/icons?i=remix" title="Remix" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
 </p>
 
-
-
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=gcp" title="GCP" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=ai" title="AI" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
+</p>
